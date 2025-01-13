@@ -1,7 +1,8 @@
-![Screenshot 2025-01-13 163945](https://github.com/user-attachments/assets/a7d33849-be15-48b4-9faf-1b7a7b0d56e9)|Nama |Eka Juliyana Rahayu |
+|Nama |Eka Juliyana Rahayu |
 | -----| ------------------ |
 |NIM | 312310594 |
 |kelas | TI.23.A6 |
+| UAS | Pemrograman WEB |
 
 # Membuat Aplikasi CRUD dengan Bootstrap5 dan  Datatables
 ## Membuat Database
