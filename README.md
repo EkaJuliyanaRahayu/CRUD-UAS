@@ -42,4 +42,10 @@
 ![Screenshot 2025-01-13 170337](https://github.com/user-attachments/assets/e8a81544-c7cf-4535-8dd1-15a8c774bdcf)
 ![Screenshot 2025-01-13 165943](https://github.com/user-attachments/assets/fe0e321b-9a8d-45bf-b386-c7d72bb85bc7)
 
+## Halaman About
+![Screenshot 2025-01-13 164007](https://github.com/user-attachments/assets/c47cf512-84cd-4fcf-bc43-088c2e2d87d6)
+
+## Halaman Contact
+![Screenshot 2025-01-13 164114](https://github.com/user-attachments/assets/d83eca63-83d4-4e1b-bb21-e63021277cc3)
+
 # Thank You
